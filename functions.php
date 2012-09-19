@@ -81,6 +81,12 @@ function getMelodyByUser($username) {
 	switch ($username) {
 		case 'user1': $num = 2; break;
 		case 'user2': $num = 3; break;
+		case 'user3': $num = 4; break;
+		case 'user4': $num = 5; break;
+		case 'user5': $num = 6; break;
+		case 'user6': $num = 7; break;
+		case 'user7': $num = 8; break;
+		case 'user8': $num = 9; break;
 		default: $num = 1;
 	}
 
